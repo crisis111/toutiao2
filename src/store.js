@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
+import jsonp from 'jsonp'
 
 Vue.use(Vuex)
 
